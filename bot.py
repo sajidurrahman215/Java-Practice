@@ -1,6 +1,7 @@
 import telebot
+import os
 
-BOT_TOKEN = "8533816989:AAGZnHCXvUIjSKfS3HSt_FgFitpypx_iWPw"
+BOT_TOKEN = os.environ.get("8533816989:AAGZnHCXvUIjSKfS3HSt_FgFitpypx_iWPw")
 GROUP_ID = -3986646042
 CHANNEL_ID = -3408829451
 
