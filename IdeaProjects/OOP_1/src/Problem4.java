@@ -1,0 +1,4 @@
+void main(){
+    System.out.println("SAT\tSUN\tMON\tTUE\tWED\tTHU\tFRI");
+    System.out.println(" 1\t 2\t 3\t 4\t 5\t 6\t 7");
+}
